@@ -8,7 +8,7 @@ public class ventana {
 		JFrame frame = new JFrame();
 		frame.setTitle("mi Primera ventana");
 		frame.setSize(800, 600);
-		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		//frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setVisible(true);
 	}
 }
